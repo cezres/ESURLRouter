@@ -58,6 +58,7 @@
 		6E4C41531DE5C00800AB5440 /* ESURLRouter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ESURLRouter.h; sourceTree = "<group>"; };
 		6E4C41541DE5C00800AB5440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E4C415B1DE5C01400AB5440 /* ESURLRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESURLRouter.m; sourceTree = "<group>"; };
+		6E57B7601E349099006E82F6 /* ESURLRouter.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ESURLRouter.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 		6E4C41461DE5C00800AB5440 = {
 			isa = PBXGroup;
 			children = (
+				6E57B7601E349099006E82F6 /* ESURLRouter.podspec */,
 				6E4C41521DE5C00800AB5440 /* ESURLRouter */,
 				6E3A66F71E2E22A800D08429 /* ESURLRouterDemo */,
 				6E4C41511DE5C00800AB5440 /* Products */,
